@@ -1,0 +1,25 @@
+criar um novo repositorio no github
+(dar um nove que seja sugestivo com esse desafio de projeto)
+
+dar uma atençao especial ao README => adicionar informaçoes relevantes ao projeto, para que outras pessoas vejam
+
+clonar repositorio, copiando link
+
+*terminal aberto dentro da pasta de destino onde vai ser baixado o clone
+
+git clone <link-repositorio>
+
+*arquivos de anotações (no caso esse kkk)
+
+git status 
+    * para ver o status atual que o git ira nos passar, o que se espera é que ele reconheça que temos arquivos novos
+
+git add .
+    *para adicionar todos os arquivos
+
+git commit -m "<descriçao>"
+
+git push origin main 
+    *para empurrar para o repositorio remoto
+
+
